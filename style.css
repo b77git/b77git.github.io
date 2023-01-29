@@ -22,7 +22,7 @@
 .bar ul li{
     list-style:  none;
     display: inline-block;
-    margin: 0 20;
+    margin: 0 20px;
 }
 .bar ul li a{
     text-decoration: none;
